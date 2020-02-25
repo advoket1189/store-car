@@ -53,7 +53,7 @@
           <div class="col-6 col-lg-3">
             <a href="index.php">
               <img src="Images/logo1.jpg" alt="Image" class="img-fluid">
-              <!-- <strong>Water</strong>Boat -->
+              
             </a>
           </div>
           <div class="col-lg-3 d-none d-lg-block">
