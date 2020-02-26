@@ -53,7 +53,7 @@
           <div class="col-6 col-lg-3">
             <a href="index.php">
               <img src="Images/logo1.jpg" alt="Image" class="img-fluid">
-              <!-- <strong>Water</strong>Boat -->
+              
             </a>
           </div>
           <div class="col-lg-3 d-none d-lg-block">
@@ -141,9 +141,9 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-7 ml-auto text-right" data-aos="fade-up">
-              <h1>Explore, Discover The Ocean</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, in distinctio nostrum laborum sed quisquam voluptate facilis non.</p>
-              <p><a href="#" class="btn btn-primary py-3 px-5">Read More</a></p>
+              <h1>The Possiblities Of Owning Your Car</h1>
+              <p>If you are looking for great savings on quality Used Cars, then you have reached the right place.</p>
+              <p><a href="about.php" class="btn btn-primary py-3 px-5">Read More</a></p>
             </div>
           </div>
         </div>
@@ -153,9 +153,9 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
-              <h1>Enjoy The Ocean With Your Family</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, in distinctio nostrum laborum sed quisquam voluptate facilis non.</p>
-              <p><a href="#" class="btn btn-primary py-3 px-5">Read More</a></p>
+              <h1>Welcome</h1>
+              <p>We are proud to offer you a first class customer service and very competitive pricing.</p>
+              <p><a href="about.php" class="btn btn-primary py-3 px-5">Read More</a></p>
             </div>
           </div>
         </div>
@@ -192,7 +192,11 @@
                 <span class="flaticon-yacht"></span>
               </span>
               <h3>Premium use cars and trucks</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+              <p>If you are looking for great savings on quality Used Cars in jamaica,
+               then you have reached the right place. Man on a mission Motor  are
+                a specialist Used Car Dealer based in the eastern end of the island. We are proud to
+                 offer you a first class customer service
+               and very competitive pricing, so please browse our stock list</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -201,7 +205,11 @@
                 <span class="flaticon-shield"></span>
               </span>
               <h3>Many Years of Experience</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+              <p>We realise that buying a Used Car can be a daunting experience, but don't worry, 
+              we are well established within the Eastern end of the island and come with a great reputation.
+               Furthermore we offer excellent advice and experience on vehicles.
+                Our friendly staff will go the extra mile to guarantee that you receive the advice you need.
+               This is the reason why many of our customers keep coming back to us.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -210,7 +218,10 @@
                 <span class="flaticon-captain"></span>
               </span>
               <h3>Good Customer Service</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+              <p> At Man On A Mission Motors we don't just sell Used Cars,
+               we do everything possible to get you driving your perfect car.
+                Why not come along to our dealership
+               in Yallahs? We look forward to meeting you!.</p>
             </div>
           </div>
         </div>
