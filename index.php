@@ -177,7 +177,7 @@
             quality motor cars and trucks at affordable prices we are located on the yallahs main rawurldecode
             35 minutes drive from kingston ideally positioned at the eastern end of the island.</p>
             <p>Man on a mission motors will sorce the vechile of your choiceat an affordable rate.</p>
-            <p><a href="#" class="btn btn-primary py-3 px-4">Learn More</a></p>
+            <p><a href="about.php" class="btn btn-primary py-3 px-4">Learn More</a></p>
           </div>
         </div>
       </div>
@@ -189,7 +189,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="service-29283">
               <span class="wrap-icon-39293">
-                <span class="flaticon-yacht"></span>
+                <span class="flaticon-shield"></span>
               </span>
               <h3>Premium use cars and trucks</h3>
               <p>If you are looking for great savings on quality Used Cars in jamaica,
@@ -215,7 +215,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="service-29283">
               <span class="wrap-icon-39293">
-                <span class="flaticon-captain"></span>
+                <span class="flaticon-shield"></span>
               </span>
               <h3>Good Customer Service</h3>
               <p> At Man On A Mission Motors we don't just sell Used Cars,
