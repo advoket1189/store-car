@@ -118,7 +118,7 @@
                   <a href="about.php" class="nav-link text-left">About Us</a>
                 </li>
                 <li>
-                  <a href="cars.php" class="nav-link text-left">Cars</a>
+                  <a href="add_forms.php" class="nav-link text-left">Cars</a>
                 </li>
                 <li>
                   <a href="contact.php" class="nav-link text-left">Contact</a>
